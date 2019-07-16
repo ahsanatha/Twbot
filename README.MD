@@ -1,6 +1,6 @@
 # Twbot
 
-Twbot si a web app to manipulate twitter account.
+Twbot is a web app to manipulate twitter account.
 
 build with Django, Redis, Tweepy and Firebase.
 
