@@ -7,8 +7,8 @@ urlpatterns = [
     path('auth/', views.auth, name='auth'),
     path('callback/', views.callback, name='callback'),
     path('home/', views.home, name='home'),
-    # path('state/', views.state, name='state'),
     path('delAll/', views.delAllTweet, name='delAll'),
     path('logout/',views.logout,name='logout'),
     # path('delX/', views.delXTweet, name='delX'),
+    # path('state/', views.state, name='state')
 ]
